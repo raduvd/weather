@@ -1,3 +1,5 @@
+Presents the weather for multiple locations, especially if it will rain.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
